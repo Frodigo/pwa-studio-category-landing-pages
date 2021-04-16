@@ -1,1 +1,0 @@
-export const STATIC_BLOCK_ONLY_DISPLAY_MODE = 'PAGE';
